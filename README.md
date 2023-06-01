@@ -48,7 +48,7 @@ These are some of the key skills I have developed throughout my journey. I'm com
 Please note that this is not an exhaustive list, and I'm always eager to learn and adapt to new technologies and frameworks. I believe in the power of continuous learning and strive to stay updated in the ever-evolving field of technology.
 
 
-## 📞 Contact Me
+## ✉️ Contact Me
 You can reach out to me through the following channels:
 
 - Email: [alessandro.piccolo30@gmail.com](mailto:alessandro.piccolo30@gmail.com)
@@ -57,7 +57,7 @@ You can reach out to me through the following channels:
 Feel free to contact me if you have any questions, collaboration opportunities, or just want to connect. I'm always excited to engage in meaningful conversations and explore new possibilities.
 
 
-## Conclusion
+## 🎉 Conclusion
 Thank you for taking the time to visit my GitHub repository! I appreciate your interest in my work and the opportunity to share my projects and ideas with you. I am enthusiastic about collaborating and exchanging ideas with fellow members of the community.
 
 If you have any suggestions, feedback, or potential collaborations, please don't hesitate to reach out. Let's connect, share our knowledge, and work together to create innovative solutions and push the boundaries of technology.

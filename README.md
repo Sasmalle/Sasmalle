@@ -1,8 +1,8 @@
-# About Me
+# 👤 About Me
 
 Hi there! 👋 I'm Alessandro, and this is my personal GitHub repository where I share my projects and code. Let me introduce myself!
 
-## Background
+## 📚 Background
 I have a background in **electronics and electrical engineering**, having studied at a technical high school. During my time there, I gained a solid foundation in programming and learned languages like **C** and **Sketch**. Later, I pursued my passion for technology by enrolling in the **Computer Science program** at university.
 
 While studying, I ventured into the world of programming and began working with **ERP systems and databases**. I primarily utilized the **RPG language** and the **IBMi (AS400) operating system**. Through this experience, I gained practical knowledge in developing systems and handling databases.
@@ -12,7 +12,7 @@ Following an internship, I joined a company where I honed my skills as a **Full 
 On a personal level, I have also dabbled in **Python**. Additionally, I have acquired proficiency in using various graphic software tools from Adobe's suite, such as **Photoshop**, **Lightroom**, **Illustrator**, **Premiere**, and **After Effects**.
 
 
-## Interests and Expertise
+## ✨ Interests and Expertise
 I am a passionate individual who loves **music, technology, and art**. I constantly seek new ways to combine these three elements and explore their intersections.
 
 Music has always been a significant part of my life, and I find inspiration in various genres and styles. Whether it's playing an instrument, producing music digitally, or simply enjoying a captivating melody, I find solace and creativity in the world of sound.
@@ -24,7 +24,7 @@ Art, in all its forms, captivates me. From visual arts to multimedia installatio
 By merging my passions for music, technology, and art, I strive to create unique projects that push boundaries and inspire others. I'm always open to collaboration and eager to connect with like-minded individuals who share similar interests.
 
 
-## Projects
+## 💼 Projects
 During my time in high school, I worked on numerous projects that allowed me to apply my programming and electronics skills. These projects ranged from small-scale automation systems to interactive electronic installations. Each project taught me valuable lessons about problem-solving, teamwork, and creative thinking.
 
 Currently, I am excited to be working on a groundbreaking startup called **YOLO**. Our vision is to revolutionize the concept of a traditional company by leveraging technology and innovative strategies. Through YOLO, we aim to reshape the way businesses operate, promoting a culture of agility, adaptability, and continuous innovation. It's an exciting journey that challenges me to think outside the box and pushes the boundaries of what's possible in the business world.
@@ -34,7 +34,7 @@ I'm proud to be part of this ambitious venture and contribute my skills in progr
 Stay tuned for updates on the progress of YOLO and the exciting projects we are working on!
 
 
-## Skills
+## 🚀 Skills
 - Programming Languages: **C**, **Sketch**, **RPG**, **Java**, **JavaScript**, **Python**
 - Markup Languages: **HTML**, **CSS**
 - Frameworks: **Angular**
@@ -48,7 +48,7 @@ These are some of the key skills I have developed throughout my journey. I'm com
 Please note that this is not an exhaustive list, and I'm always eager to learn and adapt to new technologies and frameworks. I believe in the power of continuous learning and strive to stay updated in the ever-evolving field of technology.
 
 
-## Contact Me
+## 📞 Contact Me
 You can reach out to me through the following channels:
 
 - Email: [alessandro.piccolo30@gmail.com](mailto:alessandro.piccolo30@gmail.com)
